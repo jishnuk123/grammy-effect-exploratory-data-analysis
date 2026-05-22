@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local CSV data files
+data/raw/charts.csv
+data/raw/grammies_v4.csv
