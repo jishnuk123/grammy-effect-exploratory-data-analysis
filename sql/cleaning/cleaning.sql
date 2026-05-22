@@ -1,6 +1,6 @@
 -- =============================================================================
 -- PROJECT:  The Grammy Effect - EDA on Billboard Chart Performance
--- FILE:     sql/cleaning.sql
+-- FILE:     sql/cleaning/cleaning.sql
 -- AUTHOR:   Jishnu Kandala
 -- PURPOSE:  Documents all data quality findings and defines the core cleaning
 --           CTE that is used as the foundation of every analysis query.

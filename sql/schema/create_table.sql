@@ -1,6 +1,6 @@
 -- =============================================================================
 -- PROJECT:  The Grammy Effect - EDA on Billboard Chart Performance
--- FILE:     create_tables.sql
+-- FILE:     sql/schema/create_tables.sql
 -- AUTHOR:   Jishnu Kandala
 -- PURPOSE:  Creates the two core tables for this project and documents
 --           the data loading process from raw Kaggle CSVs
