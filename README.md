@@ -165,11 +165,11 @@ Average peak rank hit its lowest point (34-35) in 2019–2021, meaning songs are
 
 ## Tableau Dashboard
 
-[Link to Tableau Public dashboard]
+[![Dashboard Preview](tableau/dashboard_preview.png)](https://public.tableau.com/app/profile/jishnu.kandala/viz/TheGrammyEffect-BillboardChartAnalysis/Story1)
 
 ---
 
 ## Author
 Jishnu Kandala 
-[[Your LinkedIn](https://www.linkedin.com/in/jishnu-kandala-a58a49406/)]  
-[\[Your GitHub\]](https://github.com/jishnuk123)
+[[My LinkedIn](https://www.linkedin.com/in/jishnu-kandala-a58a49406/)]  
+[\[My GitHub\]](https://github.com/jishnuk123)
